@@ -1,9 +1,6 @@
 <aboutme>
 <name>Andrey</name>
 <AGE units="years">23</AGE>
-<pets>
-	<fullName>Vladimir Nikolaevich Leshenko</fullname>
-	<age>30</age>
 	<pets>
 		<number>1</number>
 		<kindofpet>cat</kindofpet>
